@@ -1,3 +1,3 @@
-# patent_ner_hyponymy_extractionlinking
+# hyponymy_extraction
 
 Open [project.ipynb](./project.ipynb) to run the code
