@@ -1,6 +1,7 @@
+📰 Read article on [towardsdatascience](https://towardsdatascience.com/implementing-hearst-patterns-with-spacy-216e585f61f8) 
+
 # Named entitity recognition (NER) and Detecting Hyponym\Hypernym relationship on the dataset of Patents
 
-Read article on [towardsdatascience](https://towardsdatascience.com/implementing-hearst-patterns-with-spacy-216e585f61f8) 
 
 The main goals of this project are:
 - Train NER model with dataset of Patents in the specific domain
